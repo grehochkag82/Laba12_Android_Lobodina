@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Grade_Clicker</string>
     <!--Заголовки-->
-    с
+    <string name="points_earned">Набрано баллов</string>
     <string name="total_clicks">Всего кликов</string>>
     <string name="current_grade">Текущая оценка</string>>
     <!--Оценки-->
